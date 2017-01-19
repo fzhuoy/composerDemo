@@ -1,9 +1,6 @@
-<<<<<<< HEAD
+
 此框架由composer构建，包含了自动加载类库和验证码使用示例（验证码包来自composer）。
 
 安装方法：
 在确保您的Linux系统安装了composer的前提下，进入到www目录，运行如下命令：
 composer create-project fzhuoy/composerframe composerframe dev-master --prefer-dist
-=======
-此项目用于composer学习，随时会删除
->>>>>>> e422704f9b3c494571bca10fb30489394f9402a0
