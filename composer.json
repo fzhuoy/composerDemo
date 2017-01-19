@@ -9,6 +9,7 @@
             "email": "yunzhuo@163.com"
         }
     ],
+<<<<<<< HEAD
     "require": {
         "gregwar/captcha": "^1.1"
     },
@@ -22,4 +23,7 @@
         "view\\":"view"
 	}
     }
+=======
+    "require": {}
+>>>>>>> e422704f9b3c494571bca10fb30489394f9402a0
 }
